@@ -18,7 +18,7 @@ Soy un desarrollador con experiencia en el stack MERN, Firebase, Ruby on Rails, 
 
 ### 📫 Cómo contactarme:
 - **Correo**: [juanpablorosasmartin@gmail.com](mailto:juanpablorosasmartin@gmail.com)
-- **LinkedIn**: [linkedin.com/in/juan-pablo-rosas-martin-b62904b9](https://www.linkedin.com/in/juan-pablo-rosas-martin-b62904b9)
+- **LinkedIn**: [Juan Pablo Rosas](https://www.linkedin.com/in/juan-pablo-rosas-martin-b62904b9)
   
 ### 🌐 Mis redes:
 - **Blog**: [yeipi.cl](https://yeipi.cl) - Aquí comparto mis pensamientos sobre tecnología y programación. (En construcción)
