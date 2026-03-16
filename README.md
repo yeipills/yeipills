@@ -1,32 +1,46 @@
-# Hola, soy Juan Pablo Rosas Martin 👋
+# Juan Pablo Rosas Martin
 
-### 👨‍💻 Sobre mí:
-Soy un desarrollador con experiencia en el stack MERN, Firebase, Ruby on Rails, y React Native. Me apasiona construir soluciones eficientes y escalables, y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+```
+> dev que construye, rompe y arregla cosas en la web
+```
 
-- 🌱 Actualmente, estoy aprendiendo y explorando más sobre el aprendizaje de ciberseguridad y la integración de servicios en la nube.
-- 💬 Me encanta colaborar en proyectos open-source y discutir ideas sobre programación y tecnología.
-- ⚙️ Mis lenguajes y herramientas preferidos son:
-  - **JavaScript**: React, Node.js, Express.js
-  - **Bases de Datos**: MongoDB, Firebase, PostgreSQL
-  - **Otros**: Ruby on Rails, C++, C#
+Construyo cosas para la web y de vez en cuando las rompo a propósito (pentesting). Ingeniero en Ejecución en Computación e Informática por la UBB, donde además de terminar mi tesis — una plataforma de ciberseguridad con laboratorios Docker en tiempo real — cofundé [Opensource UBB](https://github.com/opensource-ubb): una comunidad de 40+ miembros, 15+ eventos y el respaldo de GitHub.
 
-### 🚀 Proyectos Destacados:
-- [**BuildFabricModServer**](https://github.com/yeipills/BuildFabricModServer) - Guía paso a paso para iniciar un servidor ARM con Fabric optimizado.
-- [**Lumus**](https://github.com/yeipills/Lumus) - Procesamiento de imágenes con OpenMP.
-- [**Injector**](https://github.com/yeipills/injector) - Inyector de DLLs para programas en curso.
-- [**4-en-raya-project**](https://github.com/yeipills/4-en-raya-project) - Implementación de un 4 en raya con cliente y servidor.
+Mi stack principal es **Ruby on Rails**, **React** y **Node.js**, pero no le tengo miedo a lo nuevo — mi último side project es un bot de Discord escrito en **Rust**.
 
-### 📫 Cómo contactarme:
-- **Correo**: [juanpablorosasmartin@gmail.com](mailto:juanpablorosasmartin@gmail.com)
-- **LinkedIn**: [Juan Pablo Rosas](http://www.linkedin.com/in/juan-pablo-rosas-martin)
-  
-### 🌐 Mis redes:
-- **Blog**: [yeipi.cl](https://yeipi.cl) - Aquí comparto mis pensamientos sobre tecnología y programación. (En construcción)
-
-### 🏆 Logros:
-- He contribuido a varios proyectos open-source.
-- Soy parte de organizaciones como [Epic Games](https://github.com/EpicGames) y [Open Source UBB](https://github.com/ubiobio).
+Creo en la mejora cautelosa: respetar lo que ya funciona y mejorarlo con intención.
 
 ---
 
-_“El mejor código es aquel que no se escribe”_ - **Desconocido**
+### Stack
+
+**Lenguajes** &nbsp; `JavaScript` `Ruby` `Python` `Rust` `C++` `C#` `SQL`
+
+**Frameworks** &nbsp; `Ruby on Rails` `React` `Node.js` `Express` `SvelteKit` `Stimulus.js` `Turbo`
+
+**Infra** &nbsp; `PostgreSQL` `Docker` `Git` `GitHub Actions` `CI/CD` `Firebase` `Cloudflare` `Linux`
+
+**Especialidades** &nbsp; `Full-Stack` `Ciberseguridad` `Pentesting` `DevOps` `Hardening`
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripcion | Stack |
+|----------|------------|-------|
+| **Plataforma de Ciberseguridad** | Tesis — laboratorios Docker interactivos con terminales web en tiempo real | Rails, PostgreSQL, Docker, WebSockets |
+| [**JP Fusion**](https://jpfusion.cl) | Sitio web de restaurante en produccion, SEO optimizado | SvelteKit, Cloudflare |
+| [**Open-Music**](https://github.com/yeipills/Open-Music) | Bot de Discord de alto rendimiento para musica (~50MB Docker) | Rust, Serenity, Songbird, Tokio |
+| [**Portfolio**](https://portfolio.yeipi.cl) | Portfolio interactivo con terminal, dual theme y boot sequence | HTML, CSS, JS vanilla |
+
+---
+
+### Contacto
+
+[![Portfolio](https://img.shields.io/badge/portfolio.yeipi.cl-0a0a0a?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.yeipi.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-pablo-rosas-martin)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablorosasmartin@gmail.com)
+
+---
+
+<sub>Concepcion, Chile · Disponible para oportunidades laborales</sub>
