@@ -4,7 +4,7 @@
 > dev que construye, rompe y arregla cosas en la web
 ```
 
-Construyo cosas para la web y de vez en cuando las rompo a propósito (pentesting). Ingeniero en Ejecución en Computación e Informática por la UBB, donde además de terminar mi tesis — una plataforma de ciberseguridad con laboratorios Docker en tiempo real — cofundé [Opensource UBB](https://github.com/opensource-ubb): una comunidad de 40+ miembros, 15+ eventos y el respaldo de GitHub.
+Construyo cosas para la web y de vez en cuando las rompo a propósito (pentesting). Ingeniero en Ejecución en Computación e Informática por la UBB, donde además de terminar mi tesis — una plataforma de ciberseguridad con laboratorios Docker en tiempo real — cofundé [Opensource UBB](https://github.com/ubiobio): una comunidad de 40+ miembros, 15+ eventos y el respaldo de GitHub.
 
 Mi stack principal es **Ruby on Rails**, **React** y **Node.js**, pero no le tengo miedo a lo nuevo — mi último side project es un bot de Discord escrito en **Rust**.
 
